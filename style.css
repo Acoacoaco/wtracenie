@@ -9,7 +9,8 @@ body {
 }
 
 img {
-    height: 90% !important;
+    max-height: 547px;
+    max-width: 415px;
 }
 
 div {
